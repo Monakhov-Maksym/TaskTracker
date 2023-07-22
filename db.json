@@ -4,25 +4,25 @@
       "id": 1,
       "text": "Doctors Appointment",
       "day": "May 5th at 14:30",
-      "reminder": "true"
+      "reminder": true
     },
     {
       "id": 2,
       "text": "Meeting at School",
       "day": "May 6th at 14:30",
-      "reminder": "true"
+      "reminder": true
     },
     {
       "id": 3,
       "text": "Food Shopping",
       "day": "May 7th at 12:30",
-      "reminder": "false"
+      "reminder": false
     },
     {
       "id": 4,
       "text": "Плюнуть в голубя",
       "day": "May 7th at 12:30",
-      "reminder": "false"
+      "reminder": true
     }
   ]
 }
